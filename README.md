@@ -1,1 +1,1 @@
-# Faraday-wiki
+# Faraway-wiki
